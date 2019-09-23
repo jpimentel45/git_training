@@ -1,1 +1,3 @@
 Hi! I'm Juan! I added this txt file so Alice.txt isn't alone in my repository! Let's push it baby!
+
+Created juanChanges branch to add this text to the file!
