@@ -1,3 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Just Making some changes to Alice.txt using change_alice branch.
+<<<<<<< HEAD
 Add text to alice after ADDING files on patrick branch
+=======
+Making Changes directly on repo
+>>>>>>> b1b26b8edbfd79575cdaf8ec8b6855ab82024ef0
